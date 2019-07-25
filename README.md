@@ -31,3 +31,4 @@
 | Take Two Stones| ✓      | Java     |
 | Tarifa        | ✓       | c#       |
 | Warehouse     | ✓       | c++      |
+| H-Index       | ✓       | c++      |
